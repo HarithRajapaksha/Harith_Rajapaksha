@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Harith_Rajapaksha/static/css/main.d463c028.css",
+    "main.js": "/Harith_Rajapaksha/static/js/main.aa235c38.js",
+    "static/js/787.ce539c55.chunk.js": "/Harith_Rajapaksha/static/js/787.ce539c55.chunk.js",
+    "static/media/mean.jpg": "/Harith_Rajapaksha/static/media/mean.d026946576edc7403d03.jpg",
+    "static/media/Mern.png": "/Harith_Rajapaksha/static/media/Mern.39d4f78651cc4a93b96f.png",
+    "static/media/MyDp.jpeg": "/Harith_Rajapaksha/static/media/MyDp.5869e7b49ed10d1babee.jpeg",
+    "static/media/reactNative.png": "/Harith_Rajapaksha/static/media/reactNative.a09f5ddd5e2ed0e8484a.png",
+    "static/media/Java.png": "/Harith_Rajapaksha/static/media/Java.86407ffa56ebe1f70b6a.png",
+    "static/media/kotlin.jpg": "/Harith_Rajapaksha/static/media/kotlin.edc8ddea03df6ec18604.jpg",
+    "static/media/css.png": "/Harith_Rajapaksha/static/media/css.7b2eb4849c1c79b2be14.png",
+    "static/media/boostrap.jpg": "/Harith_Rajapaksha/static/media/boostrap.dce8731b5b15cea0a51d.jpg",
+    "static/media/php.webp": "/Harith_Rajapaksha/static/media/php.648d12d002ce3773ca8d.webp",
+    "static/media/TailwindCss.webp": "/Harith_Rajapaksha/static/media/TailwindCss.25ff34443113d8c87208.webp",
+    "index.html": "/Harith_Rajapaksha/index.html",
+    "main.d463c028.css.map": "/Harith_Rajapaksha/static/css/main.d463c028.css.map",
+    "main.aa235c38.js.map": "/Harith_Rajapaksha/static/js/main.aa235c38.js.map",
+    "787.ce539c55.chunk.js.map": "/Harith_Rajapaksha/static/js/787.ce539c55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d463c028.css",
+    "static/js/main.aa235c38.js"
+  ]
+}
