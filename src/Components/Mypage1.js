@@ -67,7 +67,7 @@ I can contribute to your next project or development team.</p>
         </div>
 
         <div className="m-5 ">
-          <img src={WybImage} className="border-4 h-15 w-13 p-10  mx-12" alt="Sliit logo" />
+          <img src={WybImage} className="border-4 h-15 w-13 p-10 mx-12" alt="Wyb logo" />
           <h3 className="py-5 font-bold px-12 text-white">Wayamba Univercity Of Sri-Lanka</h3>
           <h3 className="py-5 font-bold px-12 text-white">(Bsc hon's(Statistics))</h3>
         </div>
