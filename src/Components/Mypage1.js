@@ -39,11 +39,20 @@ const Mypage1 = () => {
     <div>
       <div className="bg-zinc-900">
         <div className="mx-6 flex items-start py-4">
-          <img src={ProfileImage} className="size-60 rounded-full" alt="MyProfilePicture" />
+          <img src={ProfileImage} className="size-80 rounded-full" alt="MyProfilePicture" />
+
+          <div className="px-20 pt-10 text-white">
+         <p className="text-xl">I'm a passionate and versatile software developer with a strong foundation in web,desktop application development Mobile application developer and data Scientist with machine learning.
+My journey in the world of coding has led me to explore a variety of programming languages and technologies, allowing
+me to craft dynamic and user-friendly solutions. I thrive on tackling complex challenges and transforming innovative ideas
+into functional, efficient, and visually appealing software. With a keen eye for design and a dedication to creating robust applications,
+I'm committed to delivering exceptional user experiences and solving real-world problems. Let's connect and discuss how
+I can contribute to your next project or development team.</p>
+</div>
 
         </div>
 
-        <p className="text-white mx-10 p-5 font-mono">{animatedText} R.L Harith Rajapaksha</p>
+        <p className="text-yellow-600 mx-10 p-5 font-mono">{animatedText} R.L Harith Rajapaksha</p>
       </div>
 
       <div className="bg-yellow-100">
@@ -54,18 +63,18 @@ const Mypage1 = () => {
         <div className="m-5">
           <img src={SliitImage} className="border-4 h-15 w-13 p-10 mx-12" alt="Sliit logo" />
           <h3 className="py-5 font-bold text-white"> SRI LANKA INSTITUTE OF INFORMATION TECHNOLOGY</h3>
-          <h3 className="py-5 font-bold text-white">(bachler of Information Technology Specialized To Information Technology)</h3>
+          <h3 className="py-5 font-bold text-white">(Bachler Of Information Technology Specialized To Information Technology)</h3>
         </div>
 
         <div className="m-5 ">
           <img src={WybImage} className="border-4 h-15 w-13 p-10  mx-12" alt="Sliit logo" />
           <h3 className="py-5 font-bold px-12 text-white">Wayamba Univercity Of Sri-Lanka</h3>
-          <h3 className="py-5 font-bold px-12 text-white">(Bsc hon's(Statics))</h3>
+          <h3 className="py-5 font-bold px-12 text-white">(Bsc hon's(Statistics))</h3>
         </div>
       </div>
 
       <div className="bg-yellow-100">
-        <h2 className="text-center font-bold text-2xl py-7"> Technologies</h2>
+        <h2 className="text-center font-bold text-2xl py-7"> Tech Stack</h2>
       </div>
 
       <div>
