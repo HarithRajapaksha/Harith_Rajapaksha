@@ -42,13 +42,13 @@ const Mypage1 = () => {
           <img src={ProfileImage} className="size-80 rounded-full" alt="MyProfilePicture" />
 
           <div className="px-20 pt-10 text-white">
-         <p className="text-xl">I'm a passionate and versatile software developer with a strong foundation in web,desktop application development Mobile application developer and data Scientist with machine learning.
-My journey in the world of coding has led me to explore a variety of programming languages and technologies, allowing
-me to craft dynamic and user-friendly solutions. I thrive on tackling complex challenges and transforming innovative ideas
-into functional, efficient, and visually appealing software. With a keen eye for design and a dedication to creating robust applications,
-I'm committed to delivering exceptional user experiences and solving real-world problems. Let's connect and discuss how
-I can contribute to your next project or development team.</p>
-</div>
+            <p className="text-xl">I'm a passionate and versatile software developer with a strong foundation in web,desktop application development Mobile application developer and data Scientist with machine learning.
+              My journey in the world of coding has led me to explore a variety of programming languages and technologies, allowing
+              me to craft dynamic and user-friendly solutions. I thrive on tackling complex challenges and transforming innovative ideas
+              into functional, efficient, and visually appealing software. With a keen eye for design and a dedication to creating robust applications,
+              I'm committed to delivering exceptional user experiences and solving real-world problems. Let's connect and discuss how
+              I can contribute to your next project or development team.</p>
+          </div>
 
         </div>
 
@@ -78,54 +78,54 @@ I can contribute to your next project or development team.</p>
       </div>
 
       <div>
-        
-      <div>
-      <div className="flex flex-wrap bg-zinc-900">
-        <div>
-          <img src={MernStack} alt="MERN logo" className={imageClass} />
-        </div>
-        <div>
-          <img src={MeanStack} alt="MEAN logo" className={imageClass} />
-        </div>
-        <div>
-          <img src={KotlinAndroid} alt="Kotlin logo" className={imageClass} />
-        </div>
-        <div>
-          <img src={ReactnativeLanguage} alt="React Native logo" className={imageClass} />
-        </div>
-      
-
-    
-        <div>
-          <img src={Javalanguage} alt="Java logo" className={imageClass}/>
-        </div>
-        <div>
-          <img src={SqlLanguages} alt="SQL logo" className={imageClass} />
-        </div>
 
         <div>
-          <img src={PhpLanguage} alt="php logo" className={imageClass} />
-        </div>
+          <div className="flex flex-wrap bg-zinc-900">
+            <div>
+              <img src={MernStack} alt="MERN logo" className={imageClass} />
+            </div>
+            <div>
+              <img src={MeanStack} alt="MEAN logo" className={imageClass} />
+            </div>
+            <div>
+              <img src={KotlinAndroid} alt="Kotlin logo" className={imageClass} />
+            </div>
+            <div>
+              <img src={ReactnativeLanguage} alt="React Native logo" className={imageClass} />
+            </div>
 
-        <div>
-          <img src={HtmlLanguages} alt="HTML logo" className={imageClass} />
-        </div>
-        <div>
-          <img src={CssLanguage} alt="CSS logo" className={imageClass} />
-        </div>
-    
-        <div>
-          <img src={TailwindCss} alt="Tailwind CSS logo" className={imageClass} />
-        </div>
-        
-        <div>
-          <img src={BoostrapCss} alt="Bootstrap CSS logo" className={imageClass} />
-        </div>
 
+
+            <div>
+              <img src={Javalanguage} alt="Java logo" className={imageClass} />
+            </div>
+            <div>
+              <img src={SqlLanguages} alt="SQL logo" className={imageClass} />
+            </div>
+
+            <div>
+              <img src={PhpLanguage} alt="php logo" className={imageClass} />
+            </div>
+
+            <div>
+              <img src={HtmlLanguages} alt="HTML logo" className={imageClass} />
+            </div>
+            <div>
+              <img src={CssLanguage} alt="CSS logo" className={imageClass} />
+            </div>
+
+            <div>
+              <img src={TailwindCss} alt="Tailwind CSS logo" className={imageClass} />
+            </div>
+
+            <div>
+              <img src={BoostrapCss} alt="Bootstrap CSS logo" className={imageClass} />
+            </div>
+
+          </div>
+        </div>
       </div>
     </div>
-    </div>
-</div>
   );
 };
 
