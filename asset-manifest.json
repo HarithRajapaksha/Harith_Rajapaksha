@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Harith_Rajapaksha/static/css/main.d463c028.css",
-    "main.js": "/Harith_Rajapaksha/static/js/main.aa235c38.js",
+    "main.css": "/Harith_Rajapaksha/static/css/main.3e597c72.css",
+    "main.js": "/Harith_Rajapaksha/static/js/main.ab1f4547.js",
     "static/js/787.ce539c55.chunk.js": "/Harith_Rajapaksha/static/js/787.ce539c55.chunk.js",
     "static/media/mean.jpg": "/Harith_Rajapaksha/static/media/mean.d026946576edc7403d03.jpg",
     "static/media/Mern.png": "/Harith_Rajapaksha/static/media/Mern.39d4f78651cc4a93b96f.png",
@@ -14,12 +14,12 @@
     "static/media/php.webp": "/Harith_Rajapaksha/static/media/php.648d12d002ce3773ca8d.webp",
     "static/media/TailwindCss.webp": "/Harith_Rajapaksha/static/media/TailwindCss.25ff34443113d8c87208.webp",
     "index.html": "/Harith_Rajapaksha/index.html",
-    "main.d463c028.css.map": "/Harith_Rajapaksha/static/css/main.d463c028.css.map",
-    "main.aa235c38.js.map": "/Harith_Rajapaksha/static/js/main.aa235c38.js.map",
+    "main.3e597c72.css.map": "/Harith_Rajapaksha/static/css/main.3e597c72.css.map",
+    "main.ab1f4547.js.map": "/Harith_Rajapaksha/static/js/main.ab1f4547.js.map",
     "787.ce539c55.chunk.js.map": "/Harith_Rajapaksha/static/js/787.ce539c55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d463c028.css",
-    "static/js/main.aa235c38.js"
+    "static/css/main.3e597c72.css",
+    "static/js/main.ab1f4547.js"
   ]
 }
